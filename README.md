@@ -1,4 +1,3 @@
-# Shanmuga-Priyan-J
 
 # 👋 Hi, I'm Shanmuga Priyan J!
 
@@ -16,7 +15,6 @@
 ## 📚 Certifications
 - Microsoft Azure Data Engineer Associate  
 - Microsoft Azure AI Engineer Associate  
-- ITIL Foundation Certified  
 
 ## 📈 My GitHub Stats
 ![Shanmuga Priyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanmugaPriyanJ&show_icons=true&theme=radical)
