@@ -1,34 +1,58 @@
+# 👋 Hi, I'm Shanmuga Priyan J
 
-# 👋 Hi, I'm Shanmuga Priyan J!
-
-## 🌟 About Me
-🎓 **Big Data Analytics Post-Graduate** at Lambton College, Canada.  
-💻 **Experienced Data Analyst** with 4+ years of expertise in data analytics, machine learning, cybersecurity, and IT operations.  
-🌍 Currently based in **Ontario, Canada**.  
-
-## 🔧 Skills & Technologies
-- **Programming & Scripting:** Python (Pandas, NumPy, Scikit-learn), SQL, PowerShell, Bash  
-- **Data Analytics:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Cloud & Big Data:** Azure, Spark, Hadoop, Hive, BigQuery  
-- **Cybersecurity:** SIEM (Splunk, QRadar), Vulnerability Management, Endpoint Security  
-
-## 📚 Certifications
-- Microsoft Azure Data Engineer Associate  
-- Microsoft Azure AI Engineer Associate  
-
-## 📈 My GitHub Stats
-![Shanmuga Priyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanmugaPriyanJ&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [GitHub Profile](https://github.com/ShanmugaPriyanJ)  
-- **Email:** shanmugapriyan357@gmail.com  
+📍 **Ontario, Canada**  
+📧 **Email:** shanmugapriyan357@gmail.com  
+📱 **Phone:** +1 4376672204  
+🔗 [LinkedIn](https://linkedin.com/in/shanmugapriyan357) | [GitHub](https://github.com/shanmugapriyan357)  
 
 ---
 
-### **3. Add Badges**
-You can add badges to make your README visually appealing. Here are some examples:
+## 🌟 **About Me**
 
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=ShanmugaPriyanJ&color=blue)  
-![Followers](https://img.shields.io/github/followers/ShanmugaPriyanJ?style=social)  
+I'm a passionate and experienced **Data Scientist** and **Cybersecurity Specialist** with **4+ years of expertise** in solving complex problems using data-driven approaches. My journey spans diverse domains, including:
+
+- **Data Analytics & Machine Learning:** Extracting actionable insights and building scalable solutions.
+- **Cybersecurity Operations:** Safeguarding systems through threat detection, SIEM solutions, and incident management.
+- **Big Data Processing:** Harnessing the power of cloud and distributed systems.
+
+I thrive in collaborative environments, transforming organizational goals into innovative, impactful solutions.
+
+---
+
+## 🔧 **Skills**
+
+### 🖥️ **Technical Expertise**
+- **Programming & Scripting:** Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, PySpark
+- **Big Data & Cloud:** Apache Spark, Hadoop, Hive, Azure Data Lake, BigQuery
+- **Analytics & Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB, HDFS
+
+### 🔐 **Cybersecurity Expertise**
+- **Threat Management Tools:** SIEM (Splunk, QRadar), UEBA, Firewall, Vulnerability Management
+- **Cloud Security:** Azure Security, Key Vault
+- **Workflow Automation:** Python, Bash Scripting, Airflow
+
+---
+
+## 📊 **Notable Projects**
+- **Cybersecurity Anomaly Detection:** Built ML models for threat analysis using supervised and unsupervised techniques.
+- **Generative AI Chatbot:** Designed a chatbot for customer service, enhancing user satisfaction through NLP.
+- **Self-Driving Vehicle Analytics:** Developed YOLO-based object detection models for real-time simulation.
+
+For more details, check out my repositories below! 👇
+
+---
+
+## 🎓 **Education**
+- **Post-Graduate in Big Data Analytics** – Lambton College, Mississauga, Canada (2023–2024)  
+- **B.Tech in Electronics and Communication Engineering** – Pondicherry University, India (2015–2019)  
+
+---
+
+## 🏆 **Certifications**
+- **Microsoft Azure Data Engineer Associate** (2023)  
+- **Microsoft Azure AI Engineer Associate** (2022)  
+
+---
+
+Let's collaborate and innovate! Feel free to connect or explore my work on GitHub. 🚀
