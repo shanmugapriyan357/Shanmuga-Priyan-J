@@ -3,7 +3,6 @@
 📍 **Ontario, Canada**  
 📧 **Email:** shanmugapriyan357@gmail.com  
 📱 **Phone:** +1 4376672204  
-🔗 [LinkedIn]([https://linkedin.com/in/shanmugapriyan357](https://www.linkedin.com/in/shanmuga-priyan-j/)) | [GitHub](https://github.com/shanmugapriyan357)  
 
 ---
 
